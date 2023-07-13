@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="news_content">
+        British Foreign Secretary James Cleverly raised the issue of Income Tax department searches
+        on BBC offices in Delhi and Mumbai in bilateral talks with External Affairs Minister (EAM)
+        S. Jaishankar on Wednesday.
+        [The] U.K. Foreign Secretary brought up [the] BBC tax issue with [the] EAM today,” a government source told The Hindu.
+        “He was firmly told that all entities operating in India must comply fully with relevant laws and regulations
+        Last week Mr. Jaishankar, in public remarks, had said the BBC documentary was a “hatchet job” and suggested that
+        “election season” had begun in London and New York.
+        Mr. Cleverly is here for Thursday’s G-20 Foreign Ministers’ Meeting (FMM) and the Raisina Dialogue,
+        a conference co-hosted by the government. The U.K. Foreign Secretary also announced on Wednesday that Britain will appoint
+        a ‘Tech Envoy’ to the Indo-Pacific, with a focus on India, the U.K. Foreign, Commonwealth and Development Office (FCDO) said.
+    </string>
+</resources>
